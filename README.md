@@ -1,5 +1,5 @@
 # ImageAPI
 1、PC
-http://api.yubro.cn/?like=pc
+http://yuer.me/?like=pc
 2、Wap
-http://api.yubro.cn/?like=Wap
+http://yuer.me/?like=Wap
