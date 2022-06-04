@@ -1,7 +1,7 @@
 <?php
 declare (strict_types=1);
 if (!isset($_GET['like'])) {
-    require("fireworks.html");
+    require("welcome.html");
     exit;
 }
 
