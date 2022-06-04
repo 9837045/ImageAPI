@@ -1,5 +1,7 @@
 # ImageAPI
-1、PC
+PC
+
 http://yuer.me/?like=pc
-2、Wap
+Wap
+
 http://yuer.me/?like=Wap
